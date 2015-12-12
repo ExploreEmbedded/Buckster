@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name LTC3558)(type KiCad)(uri C:\KiCad\share\library\QFN20_3x3.pretty)(options "")(descr ""))
+  (lib (name "open project lib")(type KiCad)(uri "C:\\KiCad\\share\\library\\Open project lib.pretty")(options "")(descr ""))
+  (lib (name "open project")(type Github)(uri https://github.com/open-project/kicadlibrary)(options "")(descr ""))
+  (lib (name "jst connector")(type Github)(uri https://github.com/KiCad/Connectors_JST_SH.pretty)(options "")(descr ""))
+  (lib (name "jst th connector")(type Github)(uri https://github.com/KiCad/Connectors_JST_PH.pretty)(options "")(descr ""))
+  (lib (name "EE library")(type KiCad)(uri "C:\\KiCad\\share\\library\\EE library.pretty")(options "")(descr ""))
+)

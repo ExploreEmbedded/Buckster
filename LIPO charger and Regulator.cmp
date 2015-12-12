@@ -1,0 +1,199 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 12/11/2015 5:44:10 PM
+
+BeginCmp
+TimeStamp = /5666B08B;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5666A960;
+Reference = C2;
+ValeurCmp = 10uf;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5632341A;
+Reference = C3;
+ValeurCmp = 150pF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5632205B;
+Reference = C4;
+ValeurCmp = 10pF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5666AB71;
+Reference = C5;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5666AE74;
+Reference = C6;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /56320D95;
+Reference = CON1;
+ValeurCmp = USB-MICRO-B;
+IdModule  = EE library:USB_Micro-B_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /56321030;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56321BAE;
+Reference = L1;
+ValeurCmp = 4.7uH;
+IdModule  = EE library:inductor;
+EndCmp
+
+BeginCmp
+TimeStamp = /5632305A;
+Reference = L2;
+ValeurCmp = 2.2uH;
+IdModule  = EE library:inductor;
+EndCmp
+
+BeginCmp
+TimeStamp = /56321736;
+Reference = P1;
+ValeurCmp = LIPO battery;
+IdModule  = jst th connector:Connectors_JST_S2B-PH-K;
+EndCmp
+
+BeginCmp
+TimeStamp = /56322AD8;
+Reference = P2;
+ValeurCmp = 1.8V Regulator;
+IdModule  = Connect:PINHEAD1-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5632361F;
+Reference = P3;
+ValeurCmp = 3.3V Regulator;
+IdModule  = Connect:PINHEAD1-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /56324EC3;
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56321102;
+Reference = R2;
+ValeurCmp = 510E;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56325F6F;
+Reference = R3;
+ValeurCmp = 51k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56326679;
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56326D0C;
+Reference = R5;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56329281;
+Reference = R6;
+ValeurCmp = 56K;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56322032;
+Reference = R7;
+ValeurCmp = 750K;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56321F98;
+Reference = R8;
+ValeurCmp = 680K;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /563231DE;
+Reference = R9;
+ValeurCmp = 470K;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /56323368;
+Reference = R10;
+ValeurCmp = 200K;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /563233B7;
+Reference = R11;
+ValeurCmp = 15K;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5632A58E;
+Reference = R12;
+ValeurCmp = 1.8K;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5632BA3A;
+Reference = R13;
+ValeurCmp = 150K;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /563465FC;
+Reference = R14;
+ValeurCmp = 15M;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /56320D3A;
+Reference = U1;
+ValeurCmp = LTC3558;
+IdModule  = LTC3558:QFN20-3X3_new;
+EndCmp
+
+EndListe
