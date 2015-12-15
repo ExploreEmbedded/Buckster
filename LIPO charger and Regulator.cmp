@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 12/11/2015 5:44:10 PM
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 12/15/2015 9:11:31 AM
 
 BeginCmp
 TimeStamp = /5666B08B;
@@ -186,7 +186,7 @@ BeginCmp
 TimeStamp = /563465FC;
 Reference = R14;
 ValeurCmp = 15M;
-IdModule  = Resistors_SMD:R_0603_HandSoldering;
+IdModule  = Resistors_SMD:R_0603;
 EndCmp
 
 BeginCmp
